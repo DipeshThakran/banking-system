@@ -1,4 +1,5 @@
-graph TD
+```mermaid
+    graph TD
     %% Node Definitions
     Client([User App / Postman])
     
@@ -45,3 +46,4 @@ graph TD
     style Redis fill:#dc2626,stroke:#fff,color:#fff
     style T_PENDING fill:#334155,stroke:#fff,color:#fff
     style F_RESULT fill:#334155,stroke:#fff,color:#fff
+```
